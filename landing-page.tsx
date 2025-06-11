@@ -55,7 +55,7 @@ export default function AcompanarAppLanding() {
         <section id="como-funciona" className="py-16 px-4 bg-white">
           <div className="container mx-auto max-w-6xl">
             <h2 className="text-3xl font-bold text-center text-gray-900 mb-12">Cómo funcionará AcompañarApp</h2>
-            <div className="grid md:grid-cols-3 gap-8">
+            <div className="grid md:grid-cols-2 gap-8">
               <div className="text-center">
                 <div className="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">
                   <Users className="h-8 w-8 text-blue-600" />
